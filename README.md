@@ -1,3 +1,3 @@
 # Projeto-Cordel
  Projeto do site cordel ministrado pelo professor Guanabara...
- Para acessa-lo clique no link: https://akiramath.github.io/Projeto-Cordel/
+ Para acessa-lo clique no link: https://matheusmansanorodrigues.github.io/Projeto-Cordel/
